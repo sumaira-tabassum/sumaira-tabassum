@@ -71,7 +71,7 @@
 | Project | What it is | Links |
 |---|---|---|
 | **1st Nationwide Security** | Multi-page website for a UK security company's SIA Door Supervisor courses, built with React, Vite and Tailwind CSS | [Live](https://1stnationwidesecurity.netlify.app) · [Code](https://github.com/sumaira-tabassum/1stnationwidesecurity) |
-| **Health Tracking Platform** | Clinic CRM, React Native app and installable PWA on one Node and PostgreSQL API, with offline sync and English/Spanish support | [CRM](https://healthtrackingapp1.netlify.app) · [App](https://sflbiotrack-app.netlify.app) |
+| **Health Tracking Platform** | Clinic CRM, React Native app and installable PWA on one Node and PostgreSQL API, with offline sync and English/Spanish support | Private |
 | **WebRTC Video Dashboard** | Video calls for up to 6 people with guest join links, roles and live notifications | [Live](https://webrtc-dashboard-one.vercel.app) · [Code](https://github.com/sumaira-tabassum/webrtc-dashboard) |
 | **E-commerce App** | Full-stack MERN store with customer and admin dashboards, containerised with Docker | [Live](https://ecommerce-react-app-pink-five.vercel.app) · [Code](https://github.com/sumaira-tabassum/ecommerce-react-app) |
 | **Mind Mirror** | My final year project: an AI tool that compares documents by meaning, not just matching words | [Live](https://mindmirror-ai-pk.vercel.app) · [Code](https://github.com/sumaira-tabassum/MindMirror) |
